@@ -9,7 +9,6 @@
 # Faces: 8102
 #
 ####
-mtllib ./tfl_normalized.obj.mtl
 
 vn nan nan nan
 v 0.098101 -0.889471 0.192703
